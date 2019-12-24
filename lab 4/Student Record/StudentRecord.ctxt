@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StudentRecord
+comment1.params=firstName\ lastName\ studentID\ gradeCourseOne
+comment1.target=StudentRecord(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=int\ getGradeCourseOne()
+comment11.params=
+comment11.target=java.lang.String\ getGradeLetter()
+comment2.params=
+comment2.target=StudentRecord()
+comment3.params=firstName
+comment3.target=void\ setFirstName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFirstName()
+comment5.params=lastName
+comment5.target=void\ setLastName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getLastName()
+comment7.params=studentID
+comment7.target=void\ setStudentID(int)
+comment8.params=
+comment8.target=int\ getStudentID()
+comment9.params=gradeCourseOne
+comment9.target=void\ setGradeCourseOne(int)
+numComments=12

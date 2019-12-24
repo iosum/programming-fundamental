@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AirlineReservation
+comment1.params=firstName\ lastName\ flightNumber\ seatNumber
+comment1.target=AirlineReservation(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=int\ getSeatNumber()
+comment11.params=
+comment11.target=java.lang.String\ getSeatingClass()
+comment12.params=
+comment12.target=void\ getCapitalLetter()
+comment2.params=
+comment2.target=AirlineReservation()
+comment3.params=firstName
+comment3.target=void\ setFirstName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFirstName()
+comment5.params=lastName
+comment5.target=void\ setLastName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getLastName()
+comment7.params=flightNumber
+comment7.target=void\ setFlightNumber(int)
+comment8.params=
+comment8.target=int\ getFlightNumber()
+comment9.params=seatNumber
+comment9.target=void\ setSeatNumber(int)
+numComments=13
